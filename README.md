@@ -1,3 +1,3 @@
 # first-demo
 this is first demo repository
-author - ashish singh 
+author - ashish singh (do do)
